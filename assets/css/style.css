@@ -18,7 +18,7 @@ header {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background-image: url("assets/images/flipped-hero-image.jpeg");
+    background-image: url(../images/flipped-hero-image.jpeg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
