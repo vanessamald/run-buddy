@@ -98,7 +98,7 @@ section {
 
 /* Hero Style Start*/
 .hero {
-    background-image: url("/Users/vanessarodriguez/Desktop/projects/run-buddy/assets/images/hero-bg.jpg");
+    background-image: url("../images/flipped-hero-image.jpeg");
     background-size: cover;
     background-position: center;
     display: flex;
